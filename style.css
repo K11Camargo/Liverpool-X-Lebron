@@ -1,0 +1,233 @@
+*{
+
+
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+
+
+}
+
+
+body{
+   
+     height: 100vh;
+     display: grid;
+     background-image: url(./teste.png);
+     background-repeat: no-repeat, repeat-x;
+     background-color: #D00027;
+     background-size: 32cm;
+
+
+}
+
+
+.logo_icon{
+    width: 280px;
+    height: 195px;
+    margin-top: 2cm;
+    transform: translate(50%, -50);
+    margin-left: 2cm;
+}
+
+
+.logo__text{
+     color: rgba(228, 232, 235, 0.903);
+     font-size: 55px;
+
+
+
+
+}
+
+
+.title__text{
+    color: rgb(231, 57, 208);
+    font-size: 30px;
+    width: 500px;
+    margin-top: 8cm;
+    }
+
+
+.description__text{
+
+
+    font-size: 20px;
+    width: 500px;
+    color: #00CCB1;
+}
+
+
+
+
+.tenis_nike{
+    width: 280px;
+    height: 195px;
+    margin-top: 2cm   ;
+    transform: translate(50%, -50);
+    margin-left: 2cm;
+}
+
+
+.camisaliverpool{
+
+
+    width: 200px;
+    margin-left: 2cm;
+}
+
+
+.lebronshoe{
+
+
+    width: 280px;
+    margin-left: 2cm;
+}
+
+
+.T1{
+    width: 50px;
+    position: absolute;
+    left: 76%;
+    top: 2%;
+}
+
+
+.Y1{
+    width: 50px;
+    position: absolute;
+    left: 81%;
+    top: 2%;
+}
+
+
+.I1{
+    width: 40px;
+    position: absolute;
+    left: 86%;
+    top: 2%;
+}
+
+
+.F1{
+    width: 26px;
+    position: absolute;
+    left: 91%;
+    top: 2%;
+}
+*{
+
+
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+
+
+}
+
+
+body{
+   
+     height: 100vh;
+     display: grid;
+     background-image: url(./lfc-f.png);
+     background-repeat: no-repeat, repeat-x;
+     background-color: #D00027;
+     background-size: 32cm;
+
+
+}
+
+
+.logo_icon{
+    gap: 30px;
+    margin: 1%;
+    width: 380px;
+    height: 120px;
+}
+
+
+.logo__text{
+     color: rgba(228, 232, 235, 0.903);
+     font-size: 55px;
+
+
+
+
+}
+
+
+.title__text{
+    color: #00CCB1;
+    font-size: 30px;
+    width: 500px;
+    margin-top: 8cm;
+    }
+
+
+.description__text{
+
+
+    font-size: 20px;
+    width: 500px;
+    color: #00CCB1;
+}
+
+
+
+
+.tenis_nike{
+    width: 280px;
+    height: 195px;
+    margin-top: 2cm   ;
+    transform: translate(50%, -50);
+    margin-left: 2cm;
+}
+
+
+.camisaliverpool{
+
+
+    width: 200px;
+    margin-left: 2cm;
+}
+
+
+.lebronshoe{
+
+
+    width: 280px;
+    margin-left: 2cm;
+}
+
+
+.T1{
+    width: 50px;
+    position: absolute;
+    left: 76%;
+    top: 2%;
+}
+
+
+.Y1{
+    width: 50px;
+    position: absolute;
+    left: 81%;
+    top: 2%;
+}
+
+
+.I1{
+    width: 40px;
+    position: absolute;
+    left: 86%;
+    top: 2%;
+}
+
+
+.F1{
+    width: 26px;
+    position: absolute;
+    left: 91%;
+    top: 2%;
+}
